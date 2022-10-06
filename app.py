@@ -1,7 +1,7 @@
+import boto3
 import streamlit as st
 import numpy as np
 import pandas as pd
-import boto3
 import numpy as np
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
